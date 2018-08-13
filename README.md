@@ -1,4 +1,5 @@
 # devops-aula2
 #Keanu reeves
-#Jared Leto
+#John Travolta
 #Tom Hanks 
+#Michael Jackson
